@@ -1,0 +1,27 @@
+.parent {
+    width: 600px;
+    height: 600px;
+    background-color: #c5c1c1;
+    display: flex;
+    margin: auto;
+    gap: 13px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+    
+    
+    
+    
+}
+div > div {
+    width: 85px;
+    height: 85px;
+    background-color: rgb(84, 99, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+    
+}
